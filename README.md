@@ -193,7 +193,7 @@ VocabSphere覆蓋英國語文科，Studyly覆蓋數理與綜合學科，兩者�
 
 了解更多關於「智」啟未來計劃的詳情
 
-- 📝 [填寫查詢表格](https://vocabsphere.com/zh-HK/school#demo)
+- 📝 [填寫查詢表格](https://vocabsphere.com/zh-HK/ai-for-all-subjects)
 
 ---
 
